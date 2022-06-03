@@ -1,7 +1,7 @@
 # International Chronostratigraphic Chart
 python algorithms querying geological time scale via an age in Ma
 
-At the moment, only a Google Colab notebook is created.
+At the moment, only a [Google Colab notebook](https://colab.research.google.com/github/SavelevGeo/ics_lookup/blob/main/ics_request.ipynb) is created.
 
 The plans are:
 * use more up-to-date-data from https://github.com/CGI-IUGS/timescale-data or https://github.com/i-c-stratigraphy/interactive-geological-timescale
